@@ -1,0 +1,6 @@
+
+Status: PASSED!
+Check: 1
+Test: Add the `charset` attribute to the `meta` tag and specify the character set as **utf-8**
+Reason: None
+Timestamp: 2026-01-29 01:18:17.657097
