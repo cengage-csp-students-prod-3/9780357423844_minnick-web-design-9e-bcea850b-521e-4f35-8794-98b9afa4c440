@@ -3,30 +3,30 @@ Status: PASSED!
 Check: 1
 Test: Add an id attribute with a value of contact to the div element within the main element.
 Reason: None
-Timestamp: 2026-02-07 20:06:20.095236
+Timestamp: 2026-02-07 20:16:56.032885
 
 Status: PASSED!
 Check: 2
 Test: Add an h2 element with the text 'You can reach us at:' to the div element.
 Reason: None
-Timestamp: 2026-02-07 20:06:20.096530
+Timestamp: 2026-02-07 20:16:56.034142
 
 Status: PASSED!
 Check: 3
 Test: Add a paragraph element with the text 'Office: (814) 555-8989' to the div element.
 Reason: None
-Timestamp: 2026-02-07 20:06:20.097553
+Timestamp: 2026-02-07 20:16:56.035212
 
 Status: FAILED!
 Check: 4
 Test: Add a paragraph element with the text 'Email: <a href="mailto:contact@wildrescues .net">contact@wildrescues.net</a>' to the div element.
 Reason: Assertion failed: Can't find the p element with the text 'Email: <a href="mailto:contact@wildrescues .net">contact@wildrescues.net</a>
 Error : AssertionError - Can't find the p element with the text 'Email: <a href="mailto:contact@wildrescues .net">contact@wildrescues.net</a>
-Timestamp: 2026-02-07 20:06:20.098548
+Timestamp: 2026-02-07 20:16:56.036276
 
 Status: FAILED!
 Check: 5
 Test: Add a paragraph element with the text 'Address: <a href="https://goo.gl/maps/BTJzjc2tALd4RDWA8" target="_blank">8989 Rescue Drive, Ocala, FL 34471</a>' to the div element.
 Reason: Assertion failed: Can't find paragraph with the text 'Address: 8989 Rescue Drive, Ocala, FL 34471'
 Error : AssertionError - Can't find paragraph with the text 'Address: 8989 Rescue Drive, Ocala, FL 34471'
-Timestamp: 2026-02-07 20:06:20.099762
+Timestamp: 2026-02-07 20:16:56.037542
