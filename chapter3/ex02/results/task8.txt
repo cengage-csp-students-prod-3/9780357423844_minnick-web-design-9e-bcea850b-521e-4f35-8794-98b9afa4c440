@@ -4,18 +4,18 @@ Check: 1
 Test: Add an image element to insert the baby-raccoons.jpg picture.
 Reason: IndexError occurred: list index out of range
 Error : IndexError - list index out of range
-Timestamp: 2026-02-07 20:16:47.905276
+Timestamp: 2026-02-07 20:23:45.943379
 
 Status: FAILED!
 Check: 3
 Test: Add the height attribute of 330px to the image element.
 Reason: Assertion failed: Image element should have a height attribute value of 330px.
 Error : AssertionError - Image element should have a height attribute value of 330px.
-Timestamp: 2026-02-07 20:16:47.907605
+Timestamp: 2026-02-07 20:23:45.945726
 
 Status: FAILED!
 Check: 4
 Test: Add the width attribute of 500px to the image element.
 Reason: Assertion failed: Image element should have a width attribute value of 500px.
 Error : AssertionError - Image element should have a width attribute value of 500px.
-Timestamp: 2026-02-07 20:16:47.908803
+Timestamp: 2026-02-07 20:23:45.946915
