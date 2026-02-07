@@ -3,42 +3,41 @@ Status: PASSED!
 Check: 1
 Test: Add an id attribute with a value of info to the div element within the main element.
 Reason: None
-Timestamp: 2026-02-07 20:28:39.921622
+Timestamp: 2026-02-07 20:37:52.510875
 
 Status: PASSED!
 Check: 2
 Test: Add an h2 element with the text content, About Us, to the div element.
 Reason: None
-Timestamp: 2026-02-07 20:28:39.923043
+Timestamp: 2026-02-07 20:37:52.512265
 
 Status: PASSED!
 Check: 3
 Test: Add a paragraph element with the specified text content to the div element.
 Reason: None
-Timestamp: 2026-02-07 20:28:39.924494
+Timestamp: 2026-02-07 20:37:52.513672
 
-Status: FAILED!
+Status: PASSED!
 Check: 4
 Test: Add a paragraph element with the specified text content to the div element and link the text content to https://www.nwrawildlife.org/.
-Reason: Assertion failed: Anchor element should have text of 'National Wildlife Rehabilitators Association.'.
-Error : AssertionError - Anchor element should have text of 'National Wildlife Rehabilitators Association.'.
-Timestamp: 2026-02-07 20:28:39.925873
+Reason: None
+Timestamp: 2026-02-07 20:37:52.514991
 
 Status: FAILED!
 Check: 5
 Test: Add an image element to the div element with the specified attributes.
-Reason: Assertion failed: Image element should have a width attribute with a value of '400px'.
-Error : AssertionError - Image element should have a width attribute with a value of '400px'.
-Timestamp: 2026-02-07 20:28:39.927409
+Reason: Assertion failed: Image element should have a src attribute with a value of 'images/tortoise.jpg'.
+Error : AssertionError - Image element should have a src attribute with a value of 'images/tortoise.jpg'.
+Timestamp: 2026-02-07 20:37:52.516329
 
 Status: PASSED!
 Check: 6
 Test: Add an h3 element with the text content, We help many animals, such as:, to the div element.
 Reason: None
-Timestamp: 2026-02-07 20:28:39.929101
+Timestamp: 2026-02-07 20:37:52.517865
 
 Status: PASSED!
 Check: 7
 Test: Add an unordered list with the specified list items to the div element.
 Reason: None
-Timestamp: 2026-02-07 20:28:39.930668
+Timestamp: 2026-02-07 20:37:52.519636
