@@ -3,17 +3,10 @@ Status: PASSED!
 Check: 1
 Test: Update filename in multiline comment for about.html.
 Reason: 'File Name: about.html' was found in the program output.None
-Timestamp: 2026-02-07 20:23:49.517251
+Timestamp: 2026-02-07 20:28:38.765496
 
 Status: PASSED!
 Check: 2
 Test: Update date in multiline comment for about.html.
 Reason: 'Date: MM/DD/YYYY' was found in the program output.None
-Timestamp: 2026-02-07 20:23:49.517516
-
-Status: FAILED!
-Check: 3
-Test: Update the text in the title element to About Us.
-Reason: Assertion failed: Title element should have text of 'Wild Rescues: About Us'.
-Error : AssertionError - Title element should have text of 'Wild Rescues: About Us'.
-Timestamp: 2026-02-07 20:23:49.519162
+Timestamp: 2026-02-07 20:28:38.765763
