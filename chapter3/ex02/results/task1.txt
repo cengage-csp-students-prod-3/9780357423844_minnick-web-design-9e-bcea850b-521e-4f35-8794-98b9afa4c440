@@ -1,0 +1,37 @@
+
+Status: FAILED!
+Check: 1
+Test: add a hyperlink to the text, **Home**, that opens *index.html* in the `nav` element.
+Reason: Assertion failed: Can't find the hyperlink to the text, **Home**.
+Error : AssertionError - Can't find the hyperlink to the text, **Home**.
+Timestamp: 2026-02-07 20:05:56.818163
+
+Status: PASSED!
+Check: 2
+Test: add a hyperlink to the text, **About Us**, that opens *about.html* in the `nav` element.
+Reason: None
+Timestamp: 2026-02-07 20:05:56.819990
+
+Status: PASSED!
+Check: 3
+Test: add a hyperlink to the text, **Partnership**, that opens *partnership.html* in the `nav` element.
+Reason: None
+Timestamp: 2026-02-07 20:05:56.821368
+
+Status: PASSED!
+Check: 4
+Test: add a hyperlink to the text, **Gallery**, that opens *gallery.html* in the `nav` element.
+Reason: None
+Timestamp: 2026-02-07 20:05:56.822814
+
+Status: PASSED!
+Check: 5
+Test: add a hyperlink to the text, **FAQs**, that opens *faqs.html* in the `nav` element.
+Reason: None
+Timestamp: 2026-02-07 20:05:56.824447
+
+Status: PASSED!
+Check: 6
+Test: add a hyperlink to the text, **Contact**, that opens *contact.html* in the `nav` element.
+Reason: None
+Timestamp: 2026-02-07 20:05:56.825813

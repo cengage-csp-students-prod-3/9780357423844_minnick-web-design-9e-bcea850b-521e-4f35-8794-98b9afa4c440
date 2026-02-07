@@ -1,0 +1,48 @@
+
+Status: FAILED!
+Check: 1
+Test: Add an id attribute with a value of info to the div element within the main element.
+Reason: Assertion failed: Can't find the div element with an id of info.
+Error : AssertionError - Can't find the div element with an id of info.
+Timestamp: 2026-02-07 20:06:16.460327
+
+Status: PASSED!
+Check: 2
+Test: Add an h2 element with the text content, About Us, to the div element.
+Reason: None
+Timestamp: 2026-02-07 20:06:16.461838
+
+Status: FAILED!
+Check: 3
+Test: Add a paragraph element with the specified text content to the div element.
+Reason: Assertion failed: Can't find the div element with an id of info.
+Error : AssertionError - Can't find the div element with an id of info.
+Timestamp: 2026-02-07 20:06:16.463287
+
+Status: FAILED!
+Check: 4
+Test: Add a paragraph element with the specified text content to the div element and link the text content to https://www.nwrawildlife.org/.
+Reason: Assertion failed: Can't find the div element with an id of info.
+Error : AssertionError - Can't find the div element with an id of info.
+Timestamp: 2026-02-07 20:06:16.464680
+
+Status: FAILED!
+Check: 5
+Test: Add an image element to the div element with the specified attributes.
+Reason: Assertion failed: Can't find the div element with an id of info.
+Error : AssertionError - Can't find the div element with an id of info.
+Timestamp: 2026-02-07 20:06:16.466136
+
+Status: FAILED!
+Check: 6
+Test: Add an h3 element with the text content, We help many animals, such as:, to the div element.
+Reason: Assertion failed: Can't find the div element with an id of info.
+Error : AssertionError - Can't find the div element with an id of info.
+Timestamp: 2026-02-07 20:06:16.467494
+
+Status: FAILED!
+Check: 7
+Test: Add an unordered list with the specified list items to the div element.
+Reason: Assertion failed: Can't find the div element with an id of info.
+Error : AssertionError - Can't find the div element with an id of info.
+Timestamp: 2026-02-07 20:06:16.468830
