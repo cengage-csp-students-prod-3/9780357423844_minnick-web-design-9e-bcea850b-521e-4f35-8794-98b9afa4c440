@@ -3,41 +3,40 @@ Status: PASSED!
 Check: 1
 Test: Add an id attribute with a value of info to the div element within the main element.
 Reason: None
-Timestamp: 2026-02-07 20:37:52.510875
+Timestamp: 2026-02-07 20:43:02.224713
 
 Status: PASSED!
 Check: 2
 Test: Add an h2 element with the text content, About Us, to the div element.
 Reason: None
-Timestamp: 2026-02-07 20:37:52.512265
+Timestamp: 2026-02-07 20:43:02.225932
 
 Status: PASSED!
 Check: 3
 Test: Add a paragraph element with the specified text content to the div element.
 Reason: None
-Timestamp: 2026-02-07 20:37:52.513672
+Timestamp: 2026-02-07 20:43:02.227591
 
 Status: PASSED!
 Check: 4
 Test: Add a paragraph element with the specified text content to the div element and link the text content to https://www.nwrawildlife.org/.
 Reason: None
-Timestamp: 2026-02-07 20:37:52.514991
+Timestamp: 2026-02-07 20:43:02.228735
 
-Status: FAILED!
+Status: PASSED!
 Check: 5
 Test: Add an image element to the div element with the specified attributes.
-Reason: Assertion failed: Image element should have a src attribute with a value of 'images/tortoise.jpg'.
-Error : AssertionError - Image element should have a src attribute with a value of 'images/tortoise.jpg'.
-Timestamp: 2026-02-07 20:37:52.516329
+Reason: None
+Timestamp: 2026-02-07 20:43:02.229828
 
 Status: PASSED!
 Check: 6
 Test: Add an h3 element with the text content, We help many animals, such as:, to the div element.
 Reason: None
-Timestamp: 2026-02-07 20:37:52.517865
+Timestamp: 2026-02-07 20:43:02.231011
 
 Status: PASSED!
 Check: 7
 Test: Add an unordered list with the specified list items to the div element.
 Reason: None
-Timestamp: 2026-02-07 20:37:52.519636
+Timestamp: 2026-02-07 20:43:02.232235
