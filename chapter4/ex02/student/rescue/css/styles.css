@@ -66,3 +66,22 @@ main h3 {
 main ul {
     list-style-type: square;
 }
+
+/* Style rules for class and id selectors */
+
+.link {
+    color: #4d3319;
+    text-decoration: none;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.action {
+    font-size: 1.75em;
+    font-weight: bold;
+    text-align: center;
+}
+
+#contact {
+    text-align: center;
+}
