@@ -3,3 +3,10 @@ Author: Nicholas Brantley
 File Name: styles.css
 Date: 02/15/2026
 */
+
+/* CSS Reset */
+body, header, nav, main, footer, img, h1, h3 {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
