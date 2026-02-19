@@ -110,6 +110,10 @@ main ul {
     text-align: center;
 }
 
+.round {
+    border-radius: 6px;
+}
+
 #contact {
     text-align: center;
 }
