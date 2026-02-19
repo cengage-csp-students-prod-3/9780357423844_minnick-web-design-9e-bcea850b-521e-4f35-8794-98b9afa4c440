@@ -114,6 +114,10 @@ main ul {
     border-radius: 6px;
 }
 
+#info ul {
+    margin-left: 10%;
+}
+
 #contact {
     text-align: center;
 }
