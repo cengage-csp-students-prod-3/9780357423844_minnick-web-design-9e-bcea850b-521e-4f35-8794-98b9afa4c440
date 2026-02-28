@@ -171,11 +171,11 @@ nav li {
     border-top: none; 
     display: inline-block; 
     font-size: 1.25em; 
-    } 
+} 
 
 nav li a {
     padding: 0.5em; 
-    }    
+}    
 
 nav li a:hover {
     color: #2a1f14;
