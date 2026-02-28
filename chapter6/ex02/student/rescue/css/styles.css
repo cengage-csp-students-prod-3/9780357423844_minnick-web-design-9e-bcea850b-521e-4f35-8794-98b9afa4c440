@@ -166,13 +166,13 @@ footer a {
 
     /* Tablet Viewport: Style rules for nav area */
 
-    nav li {
+    nav ul li {
         border-top: none;
         display: inline-block;
         font-size: 1.25em;
     }
 
-    nav li a {
+    nav ul li a {
         padding: 0.5em;
     }
 
