@@ -186,7 +186,7 @@ nav li a:hover {
 
 /* Media Query for Large Desktop Viewports */
 
-@media screen and (min-width: 1921px) {
+@media screen and (min-width: 1921px), print {
 
     body {
         background: linear-gradient(#f6eee4, #78593a);
@@ -200,5 +200,5 @@ nav li a:hover {
     main {
         background-color: #f6eee4;
     }
-    
+
 }
