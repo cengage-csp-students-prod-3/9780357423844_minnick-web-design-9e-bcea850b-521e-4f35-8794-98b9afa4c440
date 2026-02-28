@@ -1,24 +1,14 @@
 
-Status: PASSED!
+Status: FAILED!
 Check: 1
 Test: add a comment with the text, /* Media Query for Desktop Viewport */
-Reason: None
-Timestamp: 2026-02-28 18:33:34.285211
+Reason: Assertion failed: The comment was not found in the styles.css file. (/* Media Query for Desktop Viewport */)
+Error : AssertionError - The comment was not found in the styles.css file. (/* Media Query for Desktop Viewport */)
+Timestamp: 2026-02-28 19:09:21.404558
 
-Status: PASSED!
-Check: 1
-Test: add a comment with the text, /* Media Query for Desktop Viewport */
-Reason: None
-Timestamp: 2026-02-28 18:33:34.285293
-
-Status: PASSED!
+Status: FAILED!
 Check: 2
 Test: add a media query that targets a screen with a minimum width of 1000px and print
-Reason: None
-Timestamp: 2026-02-28 18:33:34.285608
-
-Status: PASSED!
-Check: 2
-Test: add a media query that targets a screen with a minimum width of 1000px and print
-Reason: None
-Timestamp: 2026-02-28 18:33:34.285661
+Reason: Assertion failed: The media query was not found in the styles.css file. (@media screen and (min-width: 1000px), print {)
+Error : AssertionError - The media query was not found in the styles.css file. (@media screen and (min-width: 1000px), print {)
+Timestamp: 2026-02-28 19:09:21.405074
