@@ -3,23 +3,23 @@ Status: PASSED!
 Check: 1
 Test: Style rule for the `nav li` selector that removes the top border
 Reason: None
-Timestamp: 2026-02-28 19:20:27.408175
+Timestamp: 2026-02-28 19:21:29.139585
 
 Status: PASSED!
 Check: 2
 Test: Style rule for the `nav li` selector that sets the display to an inline-block
 Reason: None
-Timestamp: 2026-02-28 19:20:27.421862
+Timestamp: 2026-02-28 19:21:29.154232
 
 Status: PASSED!
 Check: 3
 Test: Style rule for the `nav li` selector that sets the font-size to 1.25em
 Reason: None
-Timestamp: 2026-02-28 19:20:27.435071
+Timestamp: 2026-02-28 19:21:29.167385
 
 Status: FAILED!
 Check: 4
 Test: Style rule for the `nav li a` selector that sets the padding to 0.5em
 Reason: Assertion failed: The padding property for the nav li a selector is not set to 0.5em.
 Error : AssertionError - The padding property for the nav li a selector is not set to 0.5em.
-Timestamp: 2026-02-28 19:20:27.451785
+Timestamp: 2026-02-28 19:21:29.183700
