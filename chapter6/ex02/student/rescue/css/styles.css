@@ -62,9 +62,9 @@ nav ul {
 }
 
 nav li {
-    display: block;
+    display: inline-block;
     border-top: 0.5px solid #f6eee4;
-    font-size: 1.5em;
+    font-size: 1.25em;
     font-family: Geneva, Arial, sans-serif;
     font-weight: bold;
 }
@@ -171,11 +171,11 @@ nav li {
     border-top: none; 
     display: inline-block; 
     font-size: 1.25em; 
-} 
+    } 
 
 nav li a {
     padding: 0.5em; 
-}    
+    }    
 
 nav li a:hover {
     color: #2a1f14;
