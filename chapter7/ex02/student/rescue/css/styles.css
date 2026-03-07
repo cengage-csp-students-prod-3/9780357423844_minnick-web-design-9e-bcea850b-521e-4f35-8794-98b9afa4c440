@@ -228,11 +228,24 @@ footer a {
     nav li a:hover {
         color: #2a1f14;
         background-color: #f6eee4;
+        opacity: 0.5;
     }
 
     /* Desktop Viewport: Style rules for main content */
     #info ul {
         margin-left: 5%;
+    }
+
+    /* Desktop Grid Layout */
+    .grid {
+        display: grid;
+        grid-template-columns: auto auto auto;
+        gap: 30px;
+    }
+
+    aside {
+        grid-column: 1 / span 3;
+        font-size: 2em;
     }
 
 }
