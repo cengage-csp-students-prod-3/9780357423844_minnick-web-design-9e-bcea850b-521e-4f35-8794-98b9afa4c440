@@ -203,7 +203,7 @@ footer a {
     /* Tablet Grid Layout */
     .grid {
         display: grid;
-        grid-template-columns: 1fr 1fr;
+        grid-template-columns: auto auto;
         gap: 10px;
     }
 
