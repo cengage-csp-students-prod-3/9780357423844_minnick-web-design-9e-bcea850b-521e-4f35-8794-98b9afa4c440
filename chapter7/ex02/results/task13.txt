@@ -4,4 +4,4 @@ Check: 1
 Test: Move the image files from the /resources folder to your rescue/images folder.
 Reason: Assertion failed: The resources folder should be moved to the rescue/images.
 Error : AssertionError - The resources folder should be moved to the rescue/images.
-Timestamp: 2026-03-07 19:08:31.750060
+Timestamp: 2026-03-07 19:09:35.838866
