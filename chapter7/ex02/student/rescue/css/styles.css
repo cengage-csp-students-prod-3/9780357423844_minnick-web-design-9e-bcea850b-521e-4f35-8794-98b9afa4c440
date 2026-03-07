@@ -199,6 +199,17 @@ footer a {
         color: #2a1f14;
         background-color: #f6eee4;
     }
+
+    /* Tablet Grid Layout */
+    .grid {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 10px;
+    }
+
+    aside {
+        grid-column: 1 / span 2;
+    }
     
 }
 
