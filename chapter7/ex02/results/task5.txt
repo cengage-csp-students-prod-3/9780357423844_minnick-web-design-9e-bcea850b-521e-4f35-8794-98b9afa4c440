@@ -1,0 +1,36 @@
+
+Status: PASSED!
+Check: 1
+Test: The third figure element contains an img element with the cow image.
+Reason: None
+Timestamp: 2026-03-07 18:31:40.253827
+
+Status: PASSED!
+Check: 2
+Test: The third figure element contains a figcaption element with the text 'This is Ellie. She was neglected by her owner and malnourished when she was rescued.'.
+Reason: None
+Timestamp: 2026-03-07 18:31:40.256871
+
+Status: PASSED!
+Check: 3
+Test: The fourth figure element contains an img element with the goat image.
+Reason: None
+Timestamp: 2026-03-07 18:31:40.260032
+
+Status: PASSED!
+Check: 4
+Test: The fourth figure element contains a figcaption element with the text 'Say hi to Vinny. His back legs were injured, making it difficult for him to get around.'.
+Reason: None
+Timestamp: 2026-03-07 18:31:40.263370
+
+Status: PASSED!
+Check: 5
+Test: The fifth figure element contains an img element with the pig image.
+Reason: None
+Timestamp: 2026-03-07 18:31:40.266685
+
+Status: PASSED!
+Check: 6
+Test: The fifth figure element contains a figcaption element with the text 'Rosie was just a baby when she arrived. Now she has babies.'.
+Reason: None
+Timestamp: 2026-03-07 18:31:40.269919
