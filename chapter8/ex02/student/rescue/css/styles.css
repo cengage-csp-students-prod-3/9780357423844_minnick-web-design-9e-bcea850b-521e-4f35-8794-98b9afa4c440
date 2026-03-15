@@ -216,6 +216,15 @@ footer a {
 /*Media Query for Desktop Viewport */
 @media screen and (min-width: 1000px), print {
 
+    /* Desktop Viewport: Show desktop class, hide mobile-tablet class */
+    .desktop {
+        display: block;
+    }
+
+    .mobile-tablet {
+        display: none;
+    }
+
     /* Desktop Viewport: Style rules for nav area */
     nav li {
         font-size: 1.5em;
