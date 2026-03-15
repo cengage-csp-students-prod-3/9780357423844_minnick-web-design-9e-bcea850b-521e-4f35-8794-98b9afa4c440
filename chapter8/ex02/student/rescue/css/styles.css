@@ -291,6 +291,11 @@ footer a {
         background-color: #deccba;
     }
 
+    /* Desktop Viewport: Form styles */
+    form {
+        width: auto;
+    }
+
 }
 
 
