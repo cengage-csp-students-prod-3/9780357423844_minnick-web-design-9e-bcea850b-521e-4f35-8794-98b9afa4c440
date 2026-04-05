@@ -14,8 +14,14 @@ $(document).ready(function() {
         $("#main").show();
     });
 
-$(document).ready(function() {
+    function remove() {
+        $("article p").hide();
+    }
+
+    function display() {
+        $("article p").show();
+    }
+
     $("button:contains('Hide')").click(remove);    
     $("button:contains('Show')").click(display);  
-
 });
