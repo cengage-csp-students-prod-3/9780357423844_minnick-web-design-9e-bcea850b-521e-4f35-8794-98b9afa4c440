@@ -1,14 +1,12 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: Create a function named `remove` that hides the paragraph elements within the article elements
-Reason: Assertion failed: Expected to find a function named `remove` that hides the paragraph elements within the article elements
-Error : AssertionError - Expected to find a function named `remove` that hides the paragraph elements within the article elements
-Timestamp: 2026-04-05 17:00:47.787334
+Reason: None
+Timestamp: 2026-04-05 17:05:23.915656
 
-Status: FAILED!
+Status: PASSED!
 Check: 2
 Test: Create a function named `display` that shows the paragraph elements within the article elements
-Reason: Assertion failed: Expected to find a function named `display` that shows the paragraph elements within the article elements
-Error : AssertionError - Expected to find a function named `display` that shows the paragraph elements within the article elements
-Timestamp: 2026-04-05 17:00:47.787588
+Reason: None
+Timestamp: 2026-04-05 17:05:23.915775
