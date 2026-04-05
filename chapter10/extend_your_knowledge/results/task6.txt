@@ -1,0 +1,6 @@
+
+Status: PASSED!
+Check: 1
+Test: The Show button hides the content nested inside the article
+Reason: None
+Timestamp: 2026-04-05 17:10:44.972048
