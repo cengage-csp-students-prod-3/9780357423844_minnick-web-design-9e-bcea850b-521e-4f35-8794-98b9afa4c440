@@ -7,11 +7,11 @@
 $(document).ready(function() {
     
     $("button:contains('Hide')").click(function() {
-        $("#main").hide();
+        $("article p").hide();
     });
 
     $("button:contains('Show')").click(function() {
-        $("#main").show();
+        $("article p").show();
     });
 
     function remove() {
