@@ -14,4 +14,8 @@ $(document).ready(function() {
         $("#main").show();
     });
 
+    $("button:contains('Hide')").click(remove);
+
+    $("button:contains('Show')").click(display);
+
 });
