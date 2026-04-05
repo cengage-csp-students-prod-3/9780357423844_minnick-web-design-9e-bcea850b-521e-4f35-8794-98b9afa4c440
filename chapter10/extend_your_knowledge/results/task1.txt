@@ -1,0 +1,25 @@
+
+Status: PASSED!
+Check: 1
+Test: "Name" added to comment section of the file index.html
+Reason: 'Student Name: firstname lastname' was found in the program output.None
+Timestamp: 2026-04-05 16:41:41.798817
+
+Status: FAILED!
+Check: 2
+Test: "Filename" added to comment section of the file index.html
+Reason: Unable to find 'File Name: index.html' in the program.
+Error : str - AssertionError
+Timestamp: 2026-04-05 16:41:41.799068
+
+Status: PASSED!
+Check: 3
+Test: Add **your name** to the paragraph element located within the `footer` element near the bottom of the page
+Reason: None
+Timestamp: 2026-04-05 16:41:41.800281
+
+Status: PASSED!
+Check: 4
+Test: Add a `script` element referring to the *script.js* file above the closing `body` tag
+Reason: None
+Timestamp: 2026-04-05 16:41:41.801058
