@@ -1,0 +1,7 @@
+
+Status: FAILED!
+Check: 1
+Test: Add a `script` element referring to the jQuery library above the closing `body` tag
+Reason: Assertion failed: Expected to find a `script` element referring to the jQuery library above the closing `body` tag
+Error : AssertionError - Expected to find a `script` element referring to the jQuery library above the closing `body` tag
+Timestamp: 2026-04-05 16:52:35.012417
