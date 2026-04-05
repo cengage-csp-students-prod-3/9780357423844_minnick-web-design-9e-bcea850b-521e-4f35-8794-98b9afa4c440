@@ -1,0 +1,21 @@
+
+Status: FAILED!
+Check: 1
+Test: Captions track element added to the video element
+Reason: Assertion failed: The track element with the src attribute set to media/captions.vtt is not added to the video element
+Error : AssertionError - The track element with the src attribute set to media/captions.vtt is not added to the video element
+Timestamp: 2026-04-05 17:28:08.842875
+
+Status: FAILED!
+Check: 2
+Test: Descriptions track element added to the video element
+Reason: Assertion failed: The track element with the src attribute set to media/descriptions.vtt is not added to the video element
+Error : AssertionError - The track element with the src attribute set to media/descriptions.vtt is not added to the video element
+Timestamp: 2026-04-05 17:28:08.844272
+
+Status: FAILED!
+Check: 3
+Test: Fallback text provided for legacy browsers that do not support the video element
+Reason: Assertion failed: The fallback text is not provided for legacy browsers that do not support the video element
+Error : AssertionError - The fallback text is not provided for legacy browsers that do not support the video element
+Timestamp: 2026-04-05 17:28:08.845611
