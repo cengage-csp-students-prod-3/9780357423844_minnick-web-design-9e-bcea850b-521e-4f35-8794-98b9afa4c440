@@ -4,16 +4,17 @@ Check: 2
 Test: "Name" added to comment section of the file music/scripts/script.js
 Reason: Unable to find 'Student Name: firstname lastname' in the program.
 Error : str - AssertionError
-Timestamp: 2026-04-10 22:17:29.113632
+Timestamp: 2026-04-10 22:18:32.825740
 
-Status: PASSED!
+Status: FAILED!
 Check: 3
 Test: "Filename" added to comment section of the file music/scripts/script.js
-Reason: 'File Name: script.js' was found in the program output.None
-Timestamp: 2026-04-10 22:17:29.113954
+Reason: Unable to find 'File Name: script.js' in the program.
+Error : str - AssertionError
+Timestamp: 2026-04-10 22:18:32.826083
 
 Status: PASSED!
 Check: 4
 Test: "Date" added to comment section of the file music/scripts/script.js
 Reason: 'Date: MM/DD/YYYY' was found in the program output.None
-Timestamp: 2026-04-10 22:17:29.114130
+Timestamp: 2026-04-10 22:18:32.826323
