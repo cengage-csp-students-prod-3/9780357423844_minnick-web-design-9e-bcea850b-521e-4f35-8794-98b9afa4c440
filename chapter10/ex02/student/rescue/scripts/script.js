@@ -1,5 +1,5 @@
 /*
 Author: Nicholas Brantley
-File Name: script.js
+File Name: scripts.js
 Date: 04/10/2026
 */
