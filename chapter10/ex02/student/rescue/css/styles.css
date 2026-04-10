@@ -203,9 +203,9 @@ footer a {
         display: block; 
     }    
 
-    .mobile {
+    .mobile, .mobile-nav {
         display: none; 
-    } 
+    }
 
     /* Tablet Viewport: Style rules for nav area */ 
 
