@@ -1,36 +1,19 @@
 
-Status: PASSED!
-Check: 1
-Test: Add the following comment and `nav` element above the `header` element to index.html.
-Reason: None
-Timestamp: 2026-04-10 22:07:00.675228
-
-Status: PASSED!
+Status: FAILED!
 Check: 2
-Test: Add the following comment and `nav` element above the `header` element to about.html.
-Reason: None
-Timestamp: 2026-04-10 22:07:00.677467
+Test: "Name" added to comment section of the file music/scripts/script.js
+Reason: Unable to find 'Student Name: firstname lastname' in the program.
+Error : str - AssertionError
+Timestamp: 2026-04-10 22:17:29.113632
 
 Status: PASSED!
 Check: 3
-Test: Add the following comment and `nav` element above the `header` element to contact.html.
-Reason: None
-Timestamp: 2026-04-10 22:07:00.679386
+Test: "Filename" added to comment section of the file music/scripts/script.js
+Reason: 'File Name: script.js' was found in the program output.None
+Timestamp: 2026-04-10 22:17:29.113954
 
 Status: PASSED!
 Check: 4
-Test: Add the following comment and `nav` element above the `header` element to gallery.html.
-Reason: None
-Timestamp: 2026-04-10 22:07:00.681962
-
-Status: PASSED!
-Check: 5
-Test: Add the following comment and `nav` element above the `header` element to partnership.html.
-Reason: None
-Timestamp: 2026-04-10 22:07:00.684658
-
-Status: PASSED!
-Check: 6
-Test: Add the following comment and `nav` element above the `header` element to template.html.
-Reason: None
-Timestamp: 2026-04-10 22:07:00.686144
+Test: "Date" added to comment section of the file music/scripts/script.js
+Reason: 'Date: MM/DD/YYYY' was found in the program output.None
+Timestamp: 2026-04-10 22:17:29.114130
