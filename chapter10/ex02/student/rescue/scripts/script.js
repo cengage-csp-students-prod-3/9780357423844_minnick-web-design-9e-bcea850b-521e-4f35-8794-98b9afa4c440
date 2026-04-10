@@ -20,3 +20,23 @@ function menu() {
 				menuicon.style.color = "#f6eee4";
 		}
 }
+
+function ans1() {
+    document.querySelector("#answer p").innerHTML =
+        "A baby animal is likely NOT an orphan if it is clean, warm, and the parents are nearby. Observe from a distance before intervening.";
+}
+
+function ans2() {
+    document.querySelector("#answer p").innerHTML =
+        "Rabid animals often show unusual behavior such as aggression, confusion, drooling, or lack of fear of humans. Always contact animal control if you suspect rabies.";
+}
+
+function ans3() {
+    document.querySelector("#answer p").innerHTML =
+        "No. In most cases, bird parents will not abandon their young if humans touch them. However, it is best to avoid unnecessary handling.";
+}
+
+function ans4() {
+    document.querySelector("#answer p").innerHTML =
+        "To volunteer, please visit our contact page and submit an application. We will reach out with available opportunities.";
+}
