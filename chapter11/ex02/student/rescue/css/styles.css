@@ -210,6 +210,12 @@ footer a {
     text-decoration: none;
 }
 
+/* Style rules for social images in mobile view */
+.social img {
+    display: inline-block;
+    padding: 4%;
+}
+
 /* Media Query for Tablet Viewport */
 
 @media screen and (min-width: 620px), print {
