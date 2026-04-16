@@ -1,0 +1,20 @@
+
+Status: FAILED!
+Check: 1
+Test: In the new `social` `div`, add an image element and use the **facebook-logo.png**   file as the  `src` attribute.
+Reason: Assertion failed: No image element found in social div with src attribute value of images/facebook-logo.png
+Error : AssertionError - No image element found in social div with src attribute value of images/facebook-logo.png
+Timestamp: 2026-04-16 23:32:06.939582
+
+Status: PASSED!
+Check: 2
+Test: In the new `social` `div`, add an image element and use the **Facebook logo** for the `alt` attribute.
+Reason: None
+Timestamp: 2026-04-16 23:32:06.941347
+
+Status: FAILED!
+Check: 3
+Test: In the new `social` `div`, add an image element and link it to **https://www.facebook.com**.
+Reason: Assertion failed: No image element found in social div with src attribute value of images/facebook-logo.png
+Error : AssertionError - No image element found in social div with src attribute value of images/facebook-logo.png
+Timestamp: 2026-04-16 23:32:06.942844
