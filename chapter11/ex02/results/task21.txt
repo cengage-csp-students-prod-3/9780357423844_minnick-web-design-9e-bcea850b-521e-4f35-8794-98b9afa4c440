@@ -1,0 +1,12 @@
+
+Status: PASSED!
+Check: 1
+Test: `.skip` set the **position** to a value of ***absolute** and **left** to **-999px**
+Reason: None
+Timestamp: 2026-04-16 23:47:43.147291
+
+Status: PASSED!
+Check: 2
+Test: When in focus the `.skip` class should also add on: **color** `#fff`, **background-color** `#2a1f14`, **text-decoration** set to `none`, **padding** set to `0.5%`, both **top** and **left** to `auto`, **right** to `1px`, and **z-index** set to `1`
+Reason: None
+Timestamp: 2026-04-16 23:47:43.211244
