@@ -1,0 +1,48 @@
+
+Status: PASSED!
+Check: 1
+Test: Create a minified version of your stylesheet. Name it *styles.min.css*
+Reason: None
+Timestamp: 2026-04-16 23:58:20.247587
+
+Status: FAILED!
+Check: 2
+Test: Update the stylesheet link in each HTML file to use the minified CSS file instead of the original
+Reason: Assertion failed: href not updated in index.html to "css/styles.min.css"
+Error : AssertionError - href not updated in index.html to "css/styles.min.css"
+Timestamp: 2026-04-16 23:58:20.250023
+
+Status: FAILED!
+Check: 3
+Test: Update the stylesheet link in each HTML file to use the minified CSS file instead of the original
+Reason: Assertion failed: href not updated in about.html to "css/styles.min.css"
+Error : AssertionError - href not updated in about.html to "css/styles.min.css"
+Timestamp: 2026-04-16 23:58:20.252663
+
+Status: FAILED!
+Check: 4
+Test: Update the stylesheet link in each HTML file to use the minified CSS file instead of the original
+Reason: Assertion failed: href not updated in contact.html to "css/styles.min.css"
+Error : AssertionError - href not updated in contact.html to "css/styles.min.css"
+Timestamp: 2026-04-16 23:58:20.254942
+
+Status: FAILED!
+Check: 5
+Test: Update the stylesheet link in each HTML file to use the minified CSS file instead of the original
+Reason: Assertion failed: href not updated in faqs.html to "css/styles.min.css"
+Error : AssertionError - href not updated in faqs.html to "css/styles.min.css"
+Timestamp: 2026-04-16 23:58:20.256890
+
+Status: FAILED!
+Check: 6
+Test: Update the stylesheet link in each HTML file to use the minified CSS file instead of the original
+Reason: Assertion failed: href not updated in partnership.html to "css/styles.min.css"
+Error : AssertionError - href not updated in partnership.html to "css/styles.min.css"
+Timestamp: 2026-04-16 23:58:20.259934
+
+Status: FAILED!
+Check: 7
+Test: Update the stylesheet link in each HTML file to use the minified CSS file instead of the original
+Reason: Assertion failed: href not updated in gallery.html to "css/styles.min.css"
+Error : AssertionError - href not updated in gallery.html to "css/styles.min.css"
+Timestamp: 2026-04-16 23:58:20.262885
