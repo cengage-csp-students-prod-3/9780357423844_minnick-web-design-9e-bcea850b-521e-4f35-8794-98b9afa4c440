@@ -1,21 +1,18 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: Wrap the two paragraph elements within a div element that specifies a class attribute value of 'copyright'. Indent the two paragraph elements within the div.
-Reason: Assertion failed: Expected 2 paragraph elements within the div. Found 1
-Error : AssertionError - Expected 2 paragraph elements within the div. Found 1
-Timestamp: 2026-04-16 23:27:05.313798
+Reason: None
+Timestamp: 2026-04-16 23:28:55.439164
 
-Status: FAILED!
+Status: PASSED!
 Check: 2
 Test: First paragraph contains the text: "© Copyright 2021. All Rights Reserved."
-Reason: Assertion failed: Expected 2 paragraph elements within the div. Found 1
-Error : AssertionError - Expected 2 paragraph elements within the div. Found 1
-Timestamp: 2026-04-16 23:27:05.315812
+Reason: None
+Timestamp: 2026-04-16 23:28:55.440613
 
-Status: FAILED!
+Status: PASSED!
 Check: 3
 Test: Second paragraph contains the text: "contact@wildrescues.net" within an anchor element
-Reason: Assertion failed: Expected 2 paragraph elements within the div. Found 1
-Error : AssertionError - Expected 2 paragraph elements within the div. Found 1
-Timestamp: 2026-04-16 23:27:05.317658
+Reason: None
+Timestamp: 2026-04-16 23:28:55.442112
