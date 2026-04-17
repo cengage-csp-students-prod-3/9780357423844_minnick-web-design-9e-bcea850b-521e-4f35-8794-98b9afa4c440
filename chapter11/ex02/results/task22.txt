@@ -4,11 +4,11 @@ Check: 1
 Test: create a new style rule  for images within the `social` class that sets the `display` to an **inline block**
 Reason: Assertion failed: display not set to inline-block
 Error : AssertionError - display not set to inline-block
-Timestamp: 2026-04-17 00:01:45.898334
+Timestamp: 2026-04-17 00:08:27.877932
 
 Status: FAILED!
 Check: 2
 Test: create a new style rule  for images within the `social` class that sets the `padding` to  **4%**
 Reason: Assertion failed: padding not set to 4%
 Error : AssertionError - padding not set to 4%
-Timestamp: 2026-04-17 00:01:45.918228
+Timestamp: 2026-04-17 00:08:27.896517
